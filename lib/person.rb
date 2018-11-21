@@ -1,6 +1,9 @@
-class person
+class Person
   
 end
 
-person.new
+Person.new
+Person.new
+Person.new
+
 
